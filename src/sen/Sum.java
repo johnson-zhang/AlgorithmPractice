@@ -22,6 +22,7 @@ public class Sum {
 		return false;
 	}
 	public boolean test3Sum(int sum){
+		
 /*		int[] num = new int[nlist.size()];
 		for (int i = 0; i<  nlist.size(); i++){
 			num[i] = nlist.get(i);
